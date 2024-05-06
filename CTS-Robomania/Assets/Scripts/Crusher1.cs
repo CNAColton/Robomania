@@ -5,6 +5,7 @@ using UnityEngine;
 public class Crusher1 : MonoBehaviour
 {
     public float speed;
+<<<<<<< HEAD
 
     private void FixedUpdate()
     {
@@ -18,3 +19,6 @@ public class Crusher1 : MonoBehaviour
         transform.position = newPosition;
     }
 }
+=======
+}
+>>>>>>> 2d4892225803a807e82d07c25e5e1357fe243e21
